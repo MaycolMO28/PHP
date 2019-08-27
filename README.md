@@ -5,4 +5,5 @@ Primero para ejecutar estos archivos de este repositorio , debemos hacer los sig
 ##  INICIAR EL SERVIDOR 
 ![Captura de pantalla (25)](https://user-images.githubusercontent.com/54410742/63808499-b4ece200-c8e5-11e9-9b87-025f4495f7d8.png)
 
-
+### UBICAMOS "XAMPP" DENTRO DE NUESTRO DISCO  C 
+Dentro de la carpeta "XAMPP" , encontraremos una carpeta llamada "htdocs" , donde ahi se alojan todos nuestros proyectos, es por ello que dentro de la carpeta crearemos una carpeta donde le podemos poner cualquier nombre.
